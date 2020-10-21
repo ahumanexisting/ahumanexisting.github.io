@@ -2,6 +2,7 @@ body {
   background-color:#110014;
   color:#E0FFE1;
   font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
 }
 
 .topnav{
@@ -20,4 +21,8 @@ body {
 
 .topnav a:hover{
   color:#d81e5b;
+}
+
+.topnav a:visited{
+  color:#e0ffe1;
 }
